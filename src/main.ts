@@ -12,6 +12,7 @@ async function bootstrap() {
     'http://localhost:5174',
     // 'https://crm-demo-nova.up.railway.app',
     'https://pos-crm-nova.up.railway.app',
+    'https://crm-ui-u-production.up.railway.app',
   ]);
 
   app.enableCors({
